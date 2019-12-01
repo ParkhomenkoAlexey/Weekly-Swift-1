@@ -9,12 +9,19 @@ Numbeo.com - узнать цену проживания в любом штате
 https://swiftbook.ru/successful-interview-junior-developer/ - Подготовка к собеседованиям и поиску работы
 
 Ресурсы для подготовки к техническим интервью: 
+
 Книга Cracking the Coding Interview
+
 https://swiftbook.ru/webinars/
+
 leetcode.com
+
 Hackerrank.com 
 
 Cервисы для практики интервью:
+
 stellarpeers.com
+
 pramp.com
+
 interviewing.io
